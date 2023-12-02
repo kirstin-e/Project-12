@@ -1,0 +1,12 @@
+/* Add your desired styles here */
+h1 {
+  text-align: center;
+}
+
+#options {
+  text-align: center;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
